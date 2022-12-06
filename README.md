@@ -1,9 +1,9 @@
 # Sobre o Projeto 🚀
 
-Esse projeto foi desenvolvido durante o Stage 2 do Explorer da [Rocketseat](https://rocketseat.com.br), utilizando um design disponibilizado no Figma. <br> Ele simula uma landing page de uma empresa voltada a móveis personalizados
+Esse projeto foi desenvolvido durante o Stage 2 do Explorer da [Rocketseat](https://rocketseat.com.br), utilizando um layout disponibilizado no Figma. <br> Ele simula uma landing page de uma empresa voltada a móveis personalizados
 <br>
 <br>
-Você pode acessar o projeto através do link nesse mesmo repositório e o design do Figma está no fim desse README. c:
+Você pode acessar o projeto através do link nesse mesmo repositório e o layout feito no Figma está no fim desse README. c:
 
 Fiz algumas pequenas alterações no design para algo que <strong>PARA MIM</strong> faz mais sentido e não fica tão desconfortável de olhar <br> alterações essas em alguns tamanhos de fontes, posicionamentos e cores de elementos.
 
