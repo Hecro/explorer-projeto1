@@ -1,0 +1,63 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.container {
+    width: 590px;
+    margin: 0 auto 70px;
+}
+
+.furniture-art {
+    max-width: 350px;
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 42px;
+    line-height: 55px;
+    font-weight: 400;
+}
+
+h1 span {
+    font-weight: 700;
+}
+
+P {
+    color: #7D7987;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+span, a {
+    color: #FF9900;
+    opacity: 1;
+}
+
+.line {
+    width: 300px;
+    height: 0px;
+    margin: 0 auto 8px;
+    border: 1px #FF9900 solid;
+    border-radius: 3px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #9c5e00;
+}
+
+footer p {
+    font-size: 16px;
+}
+
+.balls {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
