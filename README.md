@@ -25,5 +25,8 @@ Fiz algumas pequenas alterações no design para algo que <strong>PARA MIM</stro
 - Utilizando as Classes e IDs que foram criados no HTML
 - Posicionamentos, espaçamentos e estilização no geral com CSS;
 
-
 Veja o layout do projeto no figma [clicando aqui](https://www.figma.com/file/bSHd2aDjMqp6XztHZmVFnR/Explorer---Projeto-01-(Copy)?node-id=0%3A1&t=KZSFJgwlGuHNpZir-0) c:
+
+### Entre em contato comigo através do meu email :purple_heart:
+
+lucas.freitasj.ca@gmail.com
